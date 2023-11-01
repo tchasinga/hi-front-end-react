@@ -25,6 +25,7 @@
 ## 📖 React App <a name="about-project"></a>
 
 **React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
