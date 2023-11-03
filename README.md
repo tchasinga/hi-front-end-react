@@ -24,7 +24,7 @@
 
 ## 📖 React App <a name="about-project"></a>
 
-**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/meryemsanem/hello-rails-back-end/tree/46e26f1222c1d8a4d580b0c31aa346626695853a) for the backend.**
+**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/tchasinga/hi-back-end-react) for the backend.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +57,7 @@ In order to run this project, you need to have the following installed:
 Clone this repository to your desired folder:
 
 ```bash
-git clone https://github.com/meryemsanem/hello-react-front-end.git
+git clone https://github.com/tchasinga/hi-front-end-react.git
 ```
 
 ### Install
@@ -77,10 +77,11 @@ it will install the required gemfile for running the project
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Meryem Sanem Küçükbayram**
+👤 **Tchasinga jacques**
 
-- GitHub: [Meryem Sanem Küçükbayram](https://github.com/meryemsanem)
-- LinkedIn: [Meryem Sanem Küçükbayram](https://www.linkedin.com/in/meryemsanemkucukbayram/)
+- GitHub: [@tchasinga](https://github.com/tchasinga)
+- Twitter: [@tchasingajacques](https://twitter.com/TchasingaJacque)
+- LinkedIn: [@tchasingajaques](https://www.linkedin.com/in/tchasinga-jacques-76aba7214/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +99,7 @@ it will install the required gemfile for running the project
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/meryemsanem/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/tchasinga/hi-front-end-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
