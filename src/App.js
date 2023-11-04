@@ -1,14 +1,15 @@
-/* eslint-disable react/function-component-definition */
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Greetings from './components/Greetings';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Greeting from './components/Greeting';
 
-const App = () => (
-  <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<Greetings />} />
-    </Routes>
-  </BrowserRouter>
-);
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Greeting />} />
+      </Routes>
+    </Router>
+  );
+}
 
 export default App;
